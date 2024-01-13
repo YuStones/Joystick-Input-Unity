@@ -1,4 +1,4 @@
-Run Joystick input.exe to control a cube using joystick
+Files required to run the demo is in .zip folder
 
 Joystick-input.ino is used to stimulate serial input from a joystick
 
